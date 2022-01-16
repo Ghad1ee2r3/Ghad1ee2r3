@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ghad1ee2r3
+- 👋 Hi, I’m Ghadeer
 - 👀 I’m interested in Front End , Back End and DevOps
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Project 
