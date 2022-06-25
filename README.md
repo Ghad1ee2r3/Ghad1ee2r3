@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ghadeer
-- 👀 I’m interested in Front End , Back End and DevOps
+- 👀 I’m interested in Front End , Back End, DevOps and ML.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Project 
 - 📫 How to reach me (www.linkedin.com/in/ghadeer-alanazi-650b29148)
